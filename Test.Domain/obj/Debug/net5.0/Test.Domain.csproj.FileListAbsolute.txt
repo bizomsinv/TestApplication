@@ -1,0 +1,15 @@
+C:\Omschrift\Projects\Virtual Coders\Test\Test.Domain\obj\Debug\net5.0\Test.Domain.csproj.AssemblyReference.cache
+C:\Omschrift\Projects\Virtual Coders\Test\Test.Domain\obj\Debug\net5.0\Test.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Omschrift\Projects\Virtual Coders\Test\Test.Domain\obj\Debug\net5.0\Test.Domain.AssemblyInfoInputs.cache
+C:\Omschrift\Projects\Virtual Coders\Test\Test.Domain\obj\Debug\net5.0\Test.Domain.AssemblyInfo.cs
+C:\Omschrift\Projects\Virtual Coders\Test\Test.Domain\obj\Debug\net5.0\Test.Domain.csproj.CoreCompileInputs.cache
+C:\Omschrift\Projects\Virtual Coders\Test\Test.Domain\bin\Debug\net5.0\Test.Domain.deps.json
+C:\Omschrift\Projects\Virtual Coders\Test\Test.Domain\bin\Debug\net5.0\Test.Domain.dll
+C:\Omschrift\Projects\Virtual Coders\Test\Test.Domain\bin\Debug\net5.0\Test.Domain.pdb
+C:\Omschrift\Projects\Virtual Coders\Test\Test.Domain\bin\Debug\net5.0\Test.Data.dll
+C:\Omschrift\Projects\Virtual Coders\Test\Test.Domain\bin\Debug\net5.0\Test.Data.pdb
+C:\Omschrift\Projects\Virtual Coders\Test\Test.Domain\obj\Debug\net5.0\Test.Domain.csproj.CopyComplete
+C:\Omschrift\Projects\Virtual Coders\Test\Test.Domain\obj\Debug\net5.0\Test.Domain.dll
+C:\Omschrift\Projects\Virtual Coders\Test\Test.Domain\obj\Debug\net5.0\refint\Test.Domain.dll
+C:\Omschrift\Projects\Virtual Coders\Test\Test.Domain\obj\Debug\net5.0\Test.Domain.pdb
+C:\Omschrift\Projects\Virtual Coders\Test\Test.Domain\obj\Debug\net5.0\ref\Test.Domain.dll

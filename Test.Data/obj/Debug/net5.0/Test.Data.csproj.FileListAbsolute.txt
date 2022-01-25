@@ -1,0 +1,15 @@
+C:\Omschrift\Projects\Virtual Coders\Test\Test.Data\obj\Debug\net5.0\Test.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Omschrift\Projects\Virtual Coders\Test\Test.Data\obj\Debug\net5.0\Test.Data.AssemblyInfoInputs.cache
+C:\Omschrift\Projects\Virtual Coders\Test\Test.Data\obj\Debug\net5.0\Test.Data.AssemblyInfo.cs
+C:\Omschrift\Projects\Virtual Coders\Test\Test.Data\obj\Debug\net5.0\Test.Data.csproj.CoreCompileInputs.cache
+C:\Omschrift\Projects\Virtual Coders\Test\Test.Data\obj\Debug\net5.0\Test.Data.csproj.AssemblyReference.cache
+C:\Omschrift\Projects\Virtual Coders\Test\Test.Data\bin\Debug\net5.0\Test.Data.deps.json
+C:\Omschrift\Projects\Virtual Coders\Test\Test.Data\bin\Debug\net5.0\Test.Data.runtimeconfig.json
+C:\Omschrift\Projects\Virtual Coders\Test\Test.Data\bin\Debug\net5.0\Test.Data.runtimeconfig.dev.json
+C:\Omschrift\Projects\Virtual Coders\Test\Test.Data\bin\Debug\net5.0\Test.Data.dll
+C:\Omschrift\Projects\Virtual Coders\Test\Test.Data\bin\Debug\net5.0\Test.Data.pdb
+C:\Omschrift\Projects\Virtual Coders\Test\Test.Data\obj\Debug\net5.0\Test.Data.dll
+C:\Omschrift\Projects\Virtual Coders\Test\Test.Data\obj\Debug\net5.0\refint\Test.Data.dll
+C:\Omschrift\Projects\Virtual Coders\Test\Test.Data\obj\Debug\net5.0\Test.Data.pdb
+C:\Omschrift\Projects\Virtual Coders\Test\Test.Data\obj\Debug\net5.0\Test.Data.genruntimeconfig.cache
+C:\Omschrift\Projects\Virtual Coders\Test\Test.Data\obj\Debug\net5.0\ref\Test.Data.dll
